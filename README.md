@@ -1,2 +1,2 @@
-# checkerboard
-Checkerboard Grid Box
+# chessboard
+Chessboard Grid Box
